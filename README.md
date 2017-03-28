@@ -117,7 +117,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [JSON API](http://jsonapi.org)
 
 #### Higher Order Components by [Miguel Camba](https://twitter.com/miguelcamba)
 
