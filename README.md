@@ -22,6 +22,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [Introducing Amber.js](http://yehudakatz.com/2011/12/08/announcing-amber-js)
   - [Ember Observer](https://emberobserver.com)
   - [Ember.js: An Antidote To Your Hype Fatigue](http://brewhouse.io/blog/2015/05/13/emberjs-an-antidote-to-your-hype-fatigue.html)
+  - [Ember FastBoot](https://ember-fastboot.com)
+  - [Ember Engines](http://ember-engines.com)
+  - [Glimmer](https://github.com/tildeio/glimmer)
 
 #### Going Progressive with Ember by [Samanta de Barros](https://github.com/sdebarros)
 
