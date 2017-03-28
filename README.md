@@ -30,6 +30,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`ember-concurrency`](http://ember-concurrency.com/#/docs)
   - [`ember-orbit`](https://github.com/orbitjs/ember-orbit)
   - [Module Unification](https://github.com/emberjs/rfcs/pull/143)
+  - [Designing and Implementing Glimmer Like a Programming Language](https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language)
 
 #### Going Progressive with Ember by [Samanta de Barros](https://github.com/sdebarros)
 
