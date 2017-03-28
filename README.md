@@ -84,6 +84,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`target="_blank"` vulnerability](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
   - [`ember-cli-template-lint`](https://github.com/rwjblue/ember-cli-template-lint)
   - [`eslint`](http://eslint.org)
+  - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 #### Rebuilding Tumblr as a Single Page App by [Oli Griffiths](https://twitter.com/Oligriffiths)
 
