@@ -80,6 +80,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - Links:
   - [Content security policy](https://developers.google.com/web/fundamentals/security/csp/)
   - [`ember-cli-content-security-policy`](https://github.com/rwjblue/ember-cli-content-security-policy)
+  - [Ember Map - Contextual Components](https://embermap.com/topics/contextual-components)
 
 #### Rebuilding Tumblr as a Single Page App by [Oli Griffiths](https://twitter.com/Oligriffiths)
 
