@@ -82,6 +82,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`ember-cli-content-security-policy`](https://github.com/rwjblue/ember-cli-content-security-policy)
   - [Ember Map - Contextual Components](https://embermap.com/topics/contextual-components)
   - [`target="_blank"` vulnerability](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
+  - [`ember-cli-template-lint`](https://github.com/rwjblue/ember-cli-template-lint)
+  - [`eslint`](http://eslint.org)
 
 #### Rebuilding Tumblr as a Single Page App by [Oli Griffiths](https://twitter.com/Oligriffiths)
 
