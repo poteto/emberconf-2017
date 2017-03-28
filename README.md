@@ -91,7 +91,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [`liquid-fire`](https://github.com/ember-animation/liquid-fire)
 
 #### Animate the Web with Ember.js by [Jessica Jordan](https://twitter.com/jjordan_dev)
 
