@@ -54,9 +54,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### A Neurobiologist's Guide to Mind Manipulation by [Casey Watts](https://twitter.com/kyloma)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](https://www.slideshare.net/CaseyWatts/neurobiologists-guide-to-mind-manipulation-08)
 - Links:
-  - Edit me
+  - [See Casey's site](http://www.caseywatts.com/mindmanipulation)
 
 #### Understanding JavaScript Performance by [Godfrey Chan](https://twitter.com/chancancode)
 
