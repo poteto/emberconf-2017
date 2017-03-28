@@ -78,6 +78,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
+  - [Same origin policy](https://www.w3.org/Security/wiki/Same_Origin_Policy)
+  - [XSS Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
   - [Content security policy](https://developers.google.com/web/fundamentals/security/csp/)
   - [`ember-cli-content-security-policy`](https://github.com/rwjblue/ember-cli-content-security-policy)
   - [Ember Map - Contextual Components](https://embermap.com/topics/contextual-components)
