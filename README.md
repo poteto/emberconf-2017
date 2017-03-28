@@ -10,6 +10,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 ### Live Blogs / Streams / Highlights
 
 - [Official live stream](http://confreaks.tv/live_events/emberconf2017)
+- [Official live subtitles](https://www.streamtext.net/player?event=Tilde)
 
 ### Talks
 
@@ -20,6 +21,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - Links:
   - [Introducing Amber.js](http://yehudakatz.com/2011/12/08/announcing-amber-js)
   - [Ember Observer](https://emberobserver.com)
+
 
 #### Going Progressive with Ember by [Samanta de Barros](https://github.com/sdebarros)
 
@@ -85,7 +87,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 ### Live Blogs / Streams
 
-- Edit me
+- [Official live stream](http://confreaks.tv/live_events/emberconf2017)
+- [Official live subtitles](https://www.streamtext.net/player?event=Tilde)
 
 ### Talks
 
