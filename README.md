@@ -42,6 +42,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - Links:
   - [wyeworks](https://wyeworks.com)
   - [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps)
+  - [`ember-service-worker`](http://ember-service-worker.com)
+  - [`ember-service-worker` plugins](http://ember-service-worker.com/plugins.html)
+  - [`broccoli-serviceworker`](https://github.com/jkleinsc/broccoli-serviceworker)
 
 #### A Neurobiologist's Guide to Mind Manipulation by [Casey Watts](https://twitter.com/kyloma)
 
