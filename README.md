@@ -108,6 +108,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - Links:
   - [Ember.js Berlin Meetup](https://www.meetup.com/Ember-js-Berlin)
   - [The Horse in Motion](http://100photos.time.com/photos/eadweard-muybridge-horse-in-motion)
+  - [Phi phenomenon](https://en.wikipedia.org/wiki/Phi_phenomenon)
 
 #### Data Loading Patterns with JSON API by [Balint Erdi](https://twitter.com/baaz)
 
