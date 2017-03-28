@@ -48,6 +48,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`localForage`](https://github.com/localForage/localForage)
   - [`ember-localforage-adapter`](https://github.com/genkgo/ember-localforage-adapter)
   - [`ember-cli-fastboot`](https://github.com/ember-fastboot/ember-cli-fastboot)
+  - [`ember-engines`](http://ember-engines.com)
 
 #### A Neurobiologist's Guide to Mind Manipulation by [Casey Watts](https://twitter.com/kyloma)
 
