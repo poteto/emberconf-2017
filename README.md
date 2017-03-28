@@ -70,6 +70,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`factoryFor` RFC](https://github.com/emberjs/rfcs/pull/150)
   - [Deprecate component `eventManager`](https://github.com/emberjs/rfcs/pull/194)
   - [heimdall](https://github.com/heimdalljs/heimdalljs-lib)
+  - [`ember-bench`](https://github.com/chancancode/ember-bench)
+  - `node --trace_opt --trace_deopt --allow-natives-syntax my-script.js`
 
 #### Counter-spells and the Art of Keeping Your Application Safe by [Ingrid Epure](https://twitter.com/ingridepure)
 
