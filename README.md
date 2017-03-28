@@ -78,7 +78,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [Same origin policy](https://www.w3.org/Security/wiki/Same_Origin_Policy)
+  - [XSS Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
+  - [Content Security Policy] (https://developers.google.com/web/fundamentals/security/csp/)
 
 #### Rebuilding Tumblr as a Single Page App by [Oli Griffiths](https://twitter.com/Oligriffiths)
 
