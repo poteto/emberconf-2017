@@ -80,7 +80,13 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - Links:
   - [Same origin policy](https://www.w3.org/Security/wiki/Same_Origin_Policy)
   - [XSS Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
-  - [Content Security Policy] (https://developers.google.com/web/fundamentals/security/csp/)
+  - [Content security policy](https://developers.google.com/web/fundamentals/security/csp/)
+  - [`ember-cli-content-security-policy`](https://github.com/rwjblue/ember-cli-content-security-policy)
+  - [Ember Map - Contextual Components](https://embermap.com/topics/contextual-components)
+  - [`target="_blank"` vulnerability](https://www.jitbit.com/alexblog/256-targetblank---the-most-underestimated-vulnerability-ever/)
+  - [`ember-cli-template-lint`](https://github.com/rwjblue/ember-cli-template-lint)
+  - [`eslint`](http://eslint.org)
+  - [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 #### Rebuilding Tumblr as a Single Page App by [Oli Griffiths](https://twitter.com/Oligriffiths)
 
