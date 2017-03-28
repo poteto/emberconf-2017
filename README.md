@@ -18,7 +18,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [Introducing Amber.js](http://yehudakatz.com/2011/12/08/announcing-amber-js)
 
 #### Going Progressive with Ember by [Samanta de Barros](https://github.com/sdebarros)
 
