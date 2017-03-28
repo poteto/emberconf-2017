@@ -96,6 +96,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`liquid-fire`](https://github.com/ember-animation/liquid-fire)
   - [`ember-simple-auth`](https://github.com/simplabs/ember-simple-auth)
   - [`ember-component-css`](https://github.com/ebryn/ember-component-css)
+  - [ember-cli-flash](https://github.com/poteto/ember-cli-flash)
 
 #### Animate the Web with Ember.js by [Jessica Jordan](https://twitter.com/jjordan_dev)
 
