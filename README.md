@@ -40,7 +40,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [wyeworks](https://wyeworks.com)
+  - [Getting started with Progressive Web Apps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps)
 
 #### A Neurobiologist's Guide to Mind Manipulation by [Casey Watts](https://twitter.com/kyloma)
 
