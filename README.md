@@ -35,7 +35,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [Ember 2017 Community Survey](https://emberjs.com/ember-community-survey-2017)
   - [Glimmer.js](https://glimmerjs.com)
 
-#### Going Progressive with Ember by [Samanta de Barros](https://github.com/sdebarros)
+#### Going Progressive with Ember by [Samanta de Barros](https://twitter.com/sami_dbc)
 
 - [Video](/)
 - [Slides](/)
