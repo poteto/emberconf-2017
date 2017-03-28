@@ -57,6 +57,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Slides](https://www.slideshare.net/CaseyWatts/neurobiologists-guide-to-mind-manipulation-08)
 - Links:
   - [See Casey's site](http://www.caseywatts.com/mindmanipulation)
+  - [Expand emotional vocabulary] (http://tomdrummond.com/leading-and-caring-for-children/emotion-vocabulary/)
+  - [Unhelpful thoughts] (https://s-media-cache-ak0.pinimg.com/originals/cd/ab/af/cdabaf05001f1cef87a4072691bb3e39.png)
+  - [Book: Feeling Good] (https://www.amazon.com/Feeling-Good-New-Mood-Therapy/dp/0380810336)
 
 #### Understanding JavaScript Performance by [Godfrey Chan](https://twitter.com/chancancode)
 
