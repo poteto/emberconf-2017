@@ -5,7 +5,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 ## Day 1
 
 ### Photos
-- Edit me
+- [Jeremy Green](http://viewer.cloudhdr.com/galleries/c2ebf35a-13d9-11e7-b31c-625ea59da93d/gallery-members)
 
 ### Live Blogs / Streams / Highlights
 
