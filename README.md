@@ -32,6 +32,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [Module Unification](https://github.com/emberjs/rfcs/pull/143)
   - [Designing and Implementing Glimmer Like a Programming Language](https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language)
   - [The truth about traditional JavaScript benchmarks](http://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks)
+  - [Ember 2017 Community urvey](https://emberjs.com/ember-community-survey-2017)
 
 #### Going Progressive with Ember by [Samanta de Barros](https://github.com/sdebarros)
 
