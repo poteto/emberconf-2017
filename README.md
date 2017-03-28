@@ -110,6 +110,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [The Horse in Motion](http://100photos.time.com/photos/eadweard-muybridge-horse-in-motion)
   - [Phi phenomenon](https://en.wikipedia.org/wiki/Phi_phenomenon)
   - [Rachel Nabors OSCON 2014 Keynote: "Storytelling on the Shoulders of Giants"](https://www.youtube.com/watch?v=Q9CB7EiU9xg)
+  - [`ember-web-animations-next-polyfill`](https://github.com/BrianSipple/ember-web-animations-next-polyfill)
 
 #### Data Loading Patterns with JSON API by [Balint Erdi](https://twitter.com/baaz)
 
