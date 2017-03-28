@@ -97,6 +97,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`ember-simple-auth`](https://github.com/simplabs/ember-simple-auth)
   - [`ember-component-css`](https://github.com/ebryn/ember-component-css)
   - [`ember-cli-flash`](https://github.com/poteto/ember-cli-flash)
+  - [`ember-freestyle`](https://github.com/chrislopresto/ember-freestyle)
 
 #### Animate the Web with Ember.js by [Jessica Jordan](https://twitter.com/jjordan_dev)
 
