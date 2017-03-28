@@ -25,6 +25,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [Ember FastBoot](https://ember-fastboot.com)
   - [Ember Engines](http://ember-engines.com)
   - [Glimmer](https://github.com/tildeio/glimmer)
+  - [5 Things to Know About Ember 2.10 and Glimmer 2](https://madhatted.com/2016/11/30/5-things-to-know-about-ember-2-10-and-glimmer-2)
 
 #### Going Progressive with Ember by [Samanta de Barros](https://github.com/sdebarros)
 
