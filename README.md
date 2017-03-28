@@ -9,7 +9,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 ### Live Blogs / Streams / Highlights
 
-- Edit me
+- [Official live stream](http://confreaks.tv/live_events/emberconf2017)
 
 ### Talks
 
