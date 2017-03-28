@@ -45,6 +45,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`ember-service-worker`](http://ember-service-worker.com)
   - [`ember-service-worker` plugins](http://ember-service-worker.com/plugins.html)
   - [`broccoli-serviceworker`](https://github.com/jkleinsc/broccoli-serviceworker)
+  - [`localForage`](https://github.com/localForage/localForage)
+  - [`ember-localforage-adapter`](https://github.com/genkgo/ember-localforage-adapter)
 
 #### A Neurobiologist's Guide to Mind Manipulation by [Casey Watts](https://twitter.com/kyloma)
 
