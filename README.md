@@ -68,6 +68,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - Links:
   - [`{{unbound}}` helper](https://emberjs.com/api/classes/Ember.Templates.helpers.html#method_unbound)
   - [`factoryFor` RFC](https://github.com/emberjs/rfcs/pull/150)
+  - [Deprecate component `eventManager`](https://github.com/emberjs/rfcs/pull/194)
 
 #### Counter-spells and the Art of Keeping Your Application Safe by [Ingrid Epure](https://twitter.com/ingridepure)
 
