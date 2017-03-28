@@ -106,7 +106,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [Ember.js Berlin Meetup](https://www.meetup.com/Ember-js-Berlin)
 
 #### Data Loading Patterns with JSON API by [Balint Erdi](https://twitter.com/baaz)
 
