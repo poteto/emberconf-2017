@@ -69,7 +69,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### Understanding JavaScript Performance by [Godfrey Chan](https://twitter.com/chancancode)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](https://speakerdeck.com/chancancode/understanding-javascript-performance)
 - Links:
   - [`{{unbound}}` helper](https://emberjs.com/api/classes/Ember.Templates.helpers.html#method_unbound)
   - [`factoryFor` RFC](https://github.com/emberjs/rfcs/pull/150)
