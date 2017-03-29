@@ -156,7 +156,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - [Cardstack](https://github.com/cardstack/cardstack)
+  - [Cardstack](http://cardstack.io)
+  - [Cardstack (GitHub)](https://github.com/cardstack/cardstack)
   - [`squishable-container`](https://github.com/cardstack/squishable-container)
   - [`ember-toolbars`](https://github.com/cardstack/ember-toolbars)
   - [`ember-overlays`](https://github.com/ef4/ember-overlays)
