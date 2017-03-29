@@ -184,6 +184,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Slides](/)
 - Links:
   - [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+  - [Turing School](https://www.turing.io)
 
 #### State, Time, and Concurrency by [Alex Matchneer](https://twitter.com/machty)
 
