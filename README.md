@@ -245,6 +245,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [yarn](https://yarnpkg.com/en/)
   - [So you want to write a package manager](https://medium.com/@sdboyer/so-you-want-to-write-a-package-manager-4ae9c17d9527)
   - [`npm-sandbox`](https://github.com/ashleygwilliams/npm-sandbox)
+  - [yarn (GitHub)](https://github.com/yarnpkg/yarn)
 
 #### An Animated Guide to Ember Internals by [Gavin Joyce](https://twitter.com/gavinjoyce)
 
