@@ -176,6 +176,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [`ember-d3`](https://www.npmjs.com/package/ember-d3)
   - [`ember-highcharts`](https://www.npmjs.com/package/ember-highcharts)
   - [`ember-charts`](http://opensource.addepar.com/ember-charts/#/overview)
+  - [Ember Twiddle](https://ember-twiddle.com)
 
 #### Mastering Ember from the Perspective of a N00b by [Madison Kerndt](https://twitter.com/mkerndt)
 
