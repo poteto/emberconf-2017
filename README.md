@@ -205,8 +205,10 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - Videos:
   - Edit me
 - [Ember API Beta Docs](https://emberjs.com/api-beta)
+- [Ember API Beta GitHub](https://github.com/ember-learn/ember-api-docs)
 - [`ember-a-frame`](https://github.com/kellyselden/ember-a-frame)
 - [`ember-a-frame` demo](http://kellyselden.github.io/ember-a-frame)
+- [Degenderettes](https://degenderettes.com)
 
 #### Ember in a Large Organization by Fisayo Oluwadiya
 
