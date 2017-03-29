@@ -157,6 +157,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Slides](/)
 - Links:
   - [Cardstack](https://github.com/cardstack/cardstack)
+  - [`squishable-container`](https://github.com/cardstack/squishable-container)
 
 #### SVG Animation and Interaction in Ember by [Jen Weber](https://twitter.com/jwwweber)
 
