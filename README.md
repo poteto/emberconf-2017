@@ -234,6 +234,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [QUnit](https://qunitjs.com)
 - [heimdall.js](https://github.com/heimdalljs)
 - [`ember-perf-timeline`](https://github.com/stefanpenner/ember-perf-timeline)
+- [TypeScript](https://www.typescriptlang.org)
 
 #### Ember in a Large Organization by Fisayo Oluwadiya
 
