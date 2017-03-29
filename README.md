@@ -209,6 +209,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [`ember-a-frame`](https://github.com/kellyselden/ember-a-frame)
 - [`ember-a-frame` demo](http://kellyselden.github.io/ember-a-frame)
 - [Degenderettes](https://degenderettes.com)
+- [QUnit](https://qunitjs.com)
 
 #### Ember in a Large Organization by Fisayo Oluwadiya
 
