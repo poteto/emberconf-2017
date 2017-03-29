@@ -252,7 +252,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [Journey through Ember.js Glue: Booting Up](https://www.youtube.com/watch?v=BEteW2srG0w)
 
 #### Closing Keynote by [Sarah Mei](https://twitter.com/sarahmei)
 
