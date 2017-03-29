@@ -127,7 +127,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [Contextual components released last year](https://emberjs.com/blog/2016/01/15/ember-2-3-released.html#toc_contextual-components)
+  - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 ## Day 2
 
