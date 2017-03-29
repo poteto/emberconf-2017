@@ -166,7 +166,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### SVG Animation and Interaction in Ember by [Jen Weber](https://twitter.com/jwwweber)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](https://drive.google.com/open?id=0BxL5EMSDOzzwOVhaeE1kNi0xWUk)
 - Links:
   - [Inkspace](https://inkscape.org/en/)
 
