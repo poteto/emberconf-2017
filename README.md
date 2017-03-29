@@ -173,6 +173,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
   - [SVG Animation on CSS Transforms](https://css-tricks.com/svg-animation-on-css-transforms/)
   - [SVG Optimization Tools](https://sarasoueidan.com/blog/svgo-tools/)
+  - [`ember-d3`](https://www.npmjs.com/package/ember-d3)
+  - [`ember-highcharts`](https://www.npmjs.com/package/ember-highcharts)
+  - [`ember-charts`](http://opensource.addepar.com/ember-charts/#/overview)
 
 #### Mastering Ember from the Perspective of a N00b by [Madison Kerndt](https://twitter.com/mkerndt)
 
