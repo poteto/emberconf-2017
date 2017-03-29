@@ -170,6 +170,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - Links:
   - [Inkspace](https://inkscape.org/en/)
   - [`tagName`](https://emberjs.com/api/classes/Ember.Component.html#property_tagName)
+  - [Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
+  - [SVG Animation on CSS Transforms](https://css-tricks.com/svg-animation-on-css-transforms/)
+  - [SVG Optimization Tools](https://sarasoueidan.com/blog/svgo-tools/)
 
 #### Mastering Ember from the Perspective of a N00b by [Madison Kerndt](https://twitter.com/mkerndt)
 
