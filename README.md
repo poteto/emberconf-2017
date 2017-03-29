@@ -198,7 +198,29 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](https://speakerdeck.com/poteto/emberconf-2017-confessions-of-an-ember-addon-author)
 - Links:
-  - Edit me
+  - [Ember Addons](http://emberaddons.com)
+  - [Ember Observer](emberobserver.com)
+  - [Introducing Ember-CLI Addons](https://dockyard.com/blog/2014/06/24/introducing_ember_cli_addons)
+  - [`ember-concurrency`](http://ember-concurrency.com/#/docs)
+  - [`ember-power-select`](http://www.ember-power-select.com)
+  - [`liquid-fire`](https://ember-animation.github.io/liquid-fire)
+  - [`ember-cli-deploy`](http://ember-cli-deploy.com)
+  - [`ember-cli-mirage`](http://www.ember-cli-mirage.com)
+  - [`ember-composable-helpers`](https://github.com/DockYard/ember-composable-helpers)
+  - [`ember-changeset`](https://github.com/DockYard/ember-changeset)
+  - [Cheng Lou - Taming the Meta Language - React Conf 2017](https://youtu.be/_0T5OSSzxms)
+  - [Bringing Ecto Changesets into Ember.js](https://dockyard.com/blog/2016/06/17/ember-changeset)
+  - [Ember Way](https://emberway.io)
+  - [`ember-test-selectors`](https://github.com/simplabs/ember-test-selectors)
+  - [`ramda` docs](http://ramdajs.com/docs/)
+  - [`ember-burger-menu`](https://github.com/offirgolan/ember-burger-menu)
+  - [`ember-changeset` demo](http://bit.ly/ember-changeset-demo)
+  - [`ember-factory-for-polyfill`](https://github.com/rwjblue/ember-factory-for-polyfill)
+  - [`ember-metrics`](https://github.com/poteto/ember-metrics)
+  - [`ember-service-worker`](http://ember-service-worker.com)
+  - [Dash Offline Docs](https://kapeli.com/dash)
+  - [Semantic Versioning](http://semver.org)
+  - [`ember-cli-release`](https://github.com/lytics/ember-cli-release)
 
 #### EmberConf MiniTalks
 
@@ -210,6 +232,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [`ember-a-frame` demo](http://kellyselden.github.io/ember-a-frame)
 - [Degenderettes](https://degenderettes.com)
 - [QUnit](https://qunitjs.com)
+- [heimdall.js](https://github.com/heimdalljs)
+- [`ember-perf-timeline`](https://github.com/stefanpenner/ember-perf-timeline)
 
 #### Ember in a Large Organization by Fisayo Oluwadiya
 
