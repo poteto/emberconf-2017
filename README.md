@@ -11,6 +11,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 - [Official live stream](http://confreaks.tv/live_events/emberconf2017)
 - [Official live subtitles](https://www.streamtext.net/player?event=Tilde)
+- [Alex DiLiberto](http://alexdiliberto.com/posts/emberconf-2017-cliffsnotes/)
 
 ### Talks
 
