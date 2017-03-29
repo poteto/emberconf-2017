@@ -189,14 +189,14 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### State, Time, and Concurrency by [Alex Matchneer](https://twitter.com/machty)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](http://machty.s3.amazonaws.com/emberconf2017/index.html)
 - Links:
   - [`ember-concurrency` docs](http://ember-concurrency.com/#/docs)
 
 #### Confessions of an Ember Addon Author by [Lauren Tan](https://twitter.com/sugarpirate_)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](https://speakerdeck.com/poteto/emberconf-2017-confessions-of-an-ember-addon-author)
 - Links:
   - Edit me
 
@@ -204,7 +204,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 - Videos:
   - Edit me
-- Edit me
+- [Ember API Beta Docs](https://emberjs.com/api-beta)
+- [`ember-a-frame`](https://github.com/kellyselden/ember-a-frame)
+- [`ember-a-frame` demo](http://kellyselden.github.io/ember-a-frame)
 
 #### Ember in a Large Organization by Fisayo Oluwadiya
 
