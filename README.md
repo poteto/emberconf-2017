@@ -118,6 +118,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Slides](/)
 - Links:
   - [JSON API](http://jsonapi.org)
+  - [ember-concurrency](http://ember-concurrency.com)
 
 #### Higher Order Components by [Miguel Camba](https://twitter.com/miguelcamba)
 
