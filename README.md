@@ -169,6 +169,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Slides](https://drive.google.com/open?id=0BxL5EMSDOzzwOVhaeE1kNi0xWUk)
 - Links:
   - [Inkspace](https://inkscape.org/en/)
+  - [`tagName`](https://emberjs.com/api/classes/Ember.Component.html#property_tagName)
 
 #### Mastering Ember from the Perspective of a N00b by [Madison Kerndt](https://twitter.com/mkerndt)
 
