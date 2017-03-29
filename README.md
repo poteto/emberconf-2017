@@ -191,7 +191,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [`ember-concurrency` docs](http://ember-concurrency.com/#/docs)
 
 #### Confessions of an Ember Addon Author by [Lauren Tan](https://twitter.com/sugarpirate_)
 
