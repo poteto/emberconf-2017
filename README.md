@@ -236,12 +236,13 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [`ember-perf-timeline`](https://github.com/stefanpenner/ember-perf-timeline)
 - [TypeScript](https://www.typescriptlang.org)
 
-#### Ember in a Large Organization by Fisayo Oluwadiya
+#### Spin Me a Yarn by [Serena Frisch](https://twitter.com/serifritsch)
 
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [npm](https://www.npmjs.com)
+  - [yarn](https://yarnpkg.com/en/)
 
 #### An Animated Guide to Ember Internals by [Gavin Joyce](https://twitter.com/gavinjoyce)
 
