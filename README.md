@@ -115,10 +115,12 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### Data Loading Patterns with JSON API by [Balint Erdi](https://twitter.com/baaz)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](https://speakerdeck.com/balint/data-loading-patterns-with-json-api)
 - Links:
   - [JSON API](http://jsonapi.org)
   - [ember-concurrency](http://ember-concurrency.com)
+  - [Balint's site](https://balinterdi.com/emberconf)
+  - [`ember-data-patterns`](https://github.com/balinterdi/ember-data-patterns)
 
 #### Higher Order Components by [Miguel Camba](https://twitter.com/miguelcamba)
 
