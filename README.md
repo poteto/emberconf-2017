@@ -259,4 +259,5 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - Edit me
+  - [Brooks - No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
+  - [Conway's Law](http://www.melconway.com/Home/Conways_Law.html)
