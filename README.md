@@ -131,7 +131,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### Higher Order Components by [Miguel Camba](https://twitter.com/miguelcamba)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](https://gist.github.com/cibernox/5a46bb73d5690679a7fe07f6b4a5e55e)
 - Links:
   - [Contextual components released last year](https://emberjs.com/blog/2016/01/15/ember-2-3-released.html#toc_contextual-components)
   - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
