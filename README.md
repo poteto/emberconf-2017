@@ -110,7 +110,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### Animate the Web with Ember.js by [Jessica Jordan](https://twitter.com/jjordan_dev)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](https://jessica-jordan.github.io/animate-the-web-with-emberjs/#/)
 - Links:
   - [Ember.js Berlin Meetup](https://www.meetup.com/Ember-js-Berlin)
   - [The Horse in Motion](http://100photos.time.com/photos/eadweard-muybridge-horse-in-motion)
