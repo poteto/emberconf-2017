@@ -36,6 +36,9 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [The truth about traditional JavaScript benchmarks](http://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks)
   - [Ember 2017 Community Survey](https://emberjs.com/ember-community-survey-2017)
   - [Glimmer.js](https://glimmerjs.com)
+  - [New Glimmer org on Github](https://github.com/glimmerjs)
+  - [Generated Hello Glimmer application](https://github.com/glimmerjs/hello-glimmer)
+  - [Glimmer.js demos and examples](https://github.com/glimmerjs/glimmer-demos)
 
 #### Going Progressive with Ember by [Samanta de Barros](https://twitter.com/sami_dbc)
 
