@@ -235,6 +235,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Ember API Beta GitHub](https://github.com/ember-learn/ember-api-docs)
 - [`ember-a-frame`](https://github.com/kellyselden/ember-a-frame)
 - [`ember-a-frame` demo](http://kellyselden.github.io/ember-a-frame)
+- [`ember-a-frame` slides](https://speakerdeck.com/kellyselden/emberconf-2017-ember-vr)
 - [Degenderettes](https://degenderettes.com)
 - [QUnit](https://qunitjs.com)
 - [heimdall.js](https://github.com/heimdalljs)
