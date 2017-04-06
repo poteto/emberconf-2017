@@ -85,7 +85,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### Counter-spells and the Art of Keeping Your Application Safe by [Ingrid Epure](https://twitter.com/ingridepure)
 
 - [Video](/)
-- [Slides](/)
+- [Slides](https://speakerdeck.com/ingride/counter-spells-and-the-art-of-keeping-you-application-safe)
 - Links:
   - [Same origin policy](https://www.w3.org/Security/wiki/Same_Origin_Policy)
   - [XSS Scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
