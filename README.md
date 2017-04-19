@@ -236,7 +236,6 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
   - [MiniTalk: What's New in QUnit by Trent Willis](https://www.youtube.com/watch?v=8SzNe0gy_mY&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=17)
   - [MiniTalk: Instrumenting Ember Apps with Heimdall by Chris Thoburn](https://www.youtube.com/watch?v=MxmVV3dcXZk&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=12)
   - [MiniTalk: Typescript & Ember by Daniel Rosenwasser](https://www.youtube.com/watch?v=951HiqnNQ1w&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=13)
-  - 
 - [Ember API Beta Docs](https://emberjs.com/api-beta)
 - [Ember API Beta GitHub](https://github.com/ember-learn/ember-api-docs)
 - [`ember-a-frame`](https://github.com/kellyselden/ember-a-frame)
