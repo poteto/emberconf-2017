@@ -18,7 +18,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Opening Keynote by [Yehuda Katz](https://twitter.com/wycats) and [Tom Dale](https://twitter.com/tomdale)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=TEuY4GqwrUE&index=2&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](/)
 - Links:
   - [Introducing Amber.js](http://yehudakatz.com/2011/12/08/announcing-amber-js)
@@ -42,7 +42,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Going Progressive with Ember by [Samanta de Barros](https://twitter.com/sami_dbc)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=OR1Tk_bwmZo&index=3&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](https://speakerdeck.com/sdebarros/going-progressive-with-ember)
 - Links:
   - [wyeworks](https://wyeworks.com)
@@ -62,7 +62,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### A Neurobiologist's Guide to Mind Manipulation by [Casey Watts](https://twitter.com/kyloma)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=AtefvXagutM&index=4&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](https://www.slideshare.net/CaseyWatts/neurobiologists-guide-to-mind-manipulation-08)
 - Links:
   - [See Casey's site](http://www.caseywatts.com/mindmanipulation)
@@ -72,7 +72,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Understanding JavaScript Performance by [Godfrey Chan](https://twitter.com/chancancode)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=7ylQThr3EeQ&index=5&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](https://speakerdeck.com/chancancode/understanding-javascript-performance)
 - Links:
   - [`{{unbound}}` helper](https://emberjs.com/api/classes/Ember.Templates.helpers.html#method_unbound)
@@ -84,7 +84,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Counter-spells and the Art of Keeping Your Application Safe by [Ingrid Epure](https://twitter.com/ingridepure)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=kPar8n9zaHo&index=6&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](https://speakerdeck.com/ingride/counter-spells-and-the-art-of-keeping-you-application-safe)
 - Links:
   - [Same origin policy](https://www.w3.org/Security/wiki/Same_Origin_Policy)
@@ -99,7 +99,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Rebuilding Tumblr as a Single Page App by [Oli Griffiths](https://twitter.com/Oligriffiths)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=284BfgZ_-nE)
 - [Slides](/)
 - Links:
   - [`liquid-fire`](https://github.com/ember-animation/liquid-fire)
@@ -112,7 +112,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Animate the Web with Ember.js by [Jessica Jordan](https://twitter.com/jjordan_dev)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=wFJPIjRTIVU&index=8&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](https://jessica-jordan.github.io/animate-the-web-with-emberjs/#/)
 - Links:
   - [Ember.js Berlin Meetup](https://www.meetup.com/Ember-js-Berlin)
@@ -123,7 +123,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Data Loading Patterns with JSON API by [Balint Erdi](https://twitter.com/baaz)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=kPxiiAGMSzE&index=9&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](https://speakerdeck.com/balint/data-loading-patterns-with-json-api)
 - Links:
   - [JSON API](http://jsonapi.org)
@@ -133,7 +133,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Higher Order Components by [Miguel Camba](https://twitter.com/miguelcamba)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=MpFudGJn2J0&index=10&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](https://gist.github.com/cibernox/5a46bb73d5690679a7fe07f6b4a5e55e)
 - Links:
   - [Contextual components released last year](https://emberjs.com/blog/2016/01/15/ember-2-3-released.html#toc_contextual-components)
@@ -158,7 +158,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Empowering the Next Million Creators by [Edward Faulkner](https://twitter.com/eaf4)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=9DsBHKj90EY)
 - [Slides](/)
 - Links:
   - [Cardstack](http://cardstack.io)
@@ -170,7 +170,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### SVG Animation and Interaction in Ember by [Jen Weber](https://twitter.com/jwwweber)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=ZC3lD_DFlkc&index=11&list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT)
 - [Slides](https://drive.google.com/open?id=0BxL5EMSDOzzwOVhaeE1kNi0xWUk)
 - Links:
   - [Inkspace](https://inkscape.org/en/)
@@ -185,7 +185,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Mastering Ember from the Perspective of a N00b by [Madison Kerndt](https://twitter.com/mkerndt)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=BdUL_txyqcw)
 - [Slides](/)
 - Links:
   - [Dreyfus model](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
@@ -193,14 +193,14 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### State, Time, and Concurrency by [Alex Matchneer](https://twitter.com/machty)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=VEzVDOmY-dc&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=11)
 - [Slides](http://machty.s3.amazonaws.com/emberconf2017/index.html)
 - Links:
   - [`ember-concurrency` docs](http://ember-concurrency.com/#/docs)
 
 #### Confessions of an Ember Addon Author by [Lauren Tan](https://twitter.com/sugarpirate_)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=ln_DvmQsvis&index=26&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8)
 - [Slides](https://speakerdeck.com/poteto/emberconf-2017-confessions-of-an-ember-addon-author)
 - Links:
   - [Ember Addons](http://emberaddons.com)
@@ -230,7 +230,12 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 #### EmberConf MiniTalks
 
 - Videos:
-  - Edit me
+  - [MiniTalk: Magnum A.P.I. Adventures in Docs by Todd Jordan & David Baker](https://www.youtube.com/watch?v=043GIQQDkO8&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=16)
+  - [MiniTalk: Ember + VR: Bring Your A-Frame by Kelly Selden](https://www.youtube.com/watch?v=I3o3lV_yfIE&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=14)
+  - [MiniTalk: Baby's First Open Source Project by Liz Baillie](https://www.youtube.com/watch?v=F1UQLBIezHk&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=15)
+  - [MiniTalk: What's New in QUnit by Trent Willis](https://www.youtube.com/watch?v=8SzNe0gy_mY&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=17)
+  - [MiniTalk: Instrumenting Ember Apps with Heimdall by Chris Thoburn](https://www.youtube.com/watch?v=MxmVV3dcXZk&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=12)
+  - [MiniTalk: Typescript & Ember by Daniel Rosenwasser](https://www.youtube.com/watch?v=951HiqnNQ1w&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8&index=13)
 - [Ember API Beta Docs](https://emberjs.com/api-beta)
 - [Ember API Beta GitHub](https://github.com/ember-learn/ember-api-docs)
 - [`ember-a-frame`](https://github.com/kellyselden/ember-a-frame)
@@ -244,7 +249,7 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### Spin Me a Yarn by [Serena Frisch](https://twitter.com/serifritsch)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=4VsLIBb5kxM&index=23&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8)
 - [Slides](/)
 - Links:
   - [npm](https://www.npmjs.com)
@@ -255,14 +260,14 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 
 #### An Animated Guide to Ember Internals by [Gavin Joyce](https://twitter.com/gavinjoyce)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=A5k2u7AZf6g&index=22&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8)
 - [Slides](/)
 - Links:
   - [Journey through Ember.js Glue: Booting Up](https://www.youtube.com/watch?v=BEteW2srG0w)
 
 #### Closing Keynote by [Sarah Mei](https://twitter.com/sarahmei)
 
-- [Video](/)
+- [Video](https://www.youtube.com/watch?v=mz3l_oEA2cU&index=24&list=PLXQvI7krqI9pmNGIexukXFaqoKP2Yfzu8)
 - [Slides](/)
 - Links:
   - [Brooks - No Silver Bullet](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
